@@ -1,0 +1,7 @@
+{
+  "name": "product-sense-interview",
+  "version": "0.1.0",
+  "description": "Interactive product-sense / product-design PM interview coach built strictly on the frameworks in \"Cracking the PM Interview\" (McDowell & Bavaro). Coaches one step at a time and saves a structured write-up.",
+  "author": { "name": "Ofer Regev" },
+  "keywords": ["product-management", "pm", "interview-prep", "product-sense", "coaching"]
+}

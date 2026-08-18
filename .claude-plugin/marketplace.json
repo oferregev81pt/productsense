@@ -1,0 +1,11 @@
+{
+  "name": "product-sense-interview",
+  "owner": { "name": "Ofer Regev" },
+  "plugins": [
+    {
+      "name": "product-sense-interview",
+      "source": ".",
+      "description": "Interactive product-sense / product-design PM interview coach built strictly on the frameworks in \"Cracking the PM Interview\" (McDowell & Bavaro). Coaches one step at a time and saves a structured write-up."
+    }
+  ]
+}
