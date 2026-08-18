@@ -20,7 +20,7 @@ substitute in outside frameworks like RICE or CIRCLES.
 ### Claude Code
 
 ```
-/plugin marketplace add oferregev81pt/product-sense-interview
+/plugin marketplace add oferregev81pt/productsense
 /plugin install product-sense-interview@product-sense-interview
 ```
 
@@ -37,7 +37,7 @@ to scope it to that project.)
 ### Cursor (and other Agent-Skills-compatible tools)
 
 ```
-npx skills add oferregev81pt/product-sense-interview
+npx skills add oferregev81pt/productsense
 ```
 
 Or copy the rule file into your project's rules directory:
