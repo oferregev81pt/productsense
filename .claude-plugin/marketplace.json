@@ -1,11 +1,14 @@
 {
   "name": "product-sense-interview",
-  "owner": { "name": "Ofer Regev" },
+  "owner": {
+    "name": "Ofer Regev"
+  },
   "plugins": [
     {
       "name": "product-sense-interview",
-      "source": ".",
+      "source": "./plugins/product-sense-interview",
       "description": "Interactive product-sense / product-design PM interview coach built strictly on the frameworks in \"Cracking the PM Interview\" (McDowell & Bavaro). Coaches one step at a time and saves a structured write-up."
     }
-  ]
+  ],
+  "description": "Claude plugins from The AI PM Hub for product managers"
 }
