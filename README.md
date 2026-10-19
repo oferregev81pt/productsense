@@ -28,7 +28,7 @@ Or, without the marketplace, copy the skill folder directly into your
 personal skills directory:
 
 ```bash
-cp -r plugins/product-sense-interview/skills/product-sense-interview ~/.claude/skills/
+cp -r skills/product-sense-interview ~/.claude/skills/
 ```
 
 (Use `.claude/skills/` inside a specific project instead of `~/.claude/skills/`
@@ -48,7 +48,7 @@ cp cursor/product-sense-interview.mdc .cursor/rules/
 ```
 
 The rule references the worked examples at
-`plugins/product-sense-interview/skills/product-sense-interview/references/book-examples.md` — copy that file
+`skills/product-sense-interview/references/book-examples.md` — copy that file
 alongside it (or adjust the relative path) if you move it elsewhere.
 
 ## Usage
