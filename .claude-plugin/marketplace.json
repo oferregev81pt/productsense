@@ -1,13 +1,18 @@
 {
-  "name": "product-sense-interview",
+  "name": "ai-pm-hub",
   "owner": {
     "name": "Ofer Regev"
   },
   "plugins": [
     {
       "name": "product-sense-interview",
-      "source": ".",
+      "source": "./plugins/product-sense-interview",
       "description": "Interactive product-sense / product-design PM interview coach built strictly on the frameworks in \"Cracking the PM Interview\" (McDowell & Bavaro). Coaches one step at a time and saves a structured write-up."
+    },
+    {
+      "name": "pm-mock-interview",
+      "source": "./plugins/pm-mock-interview",
+      "description": "Run a realistic PM product-design mock interview, playing a tough but fair interviewer, then give a rubric scorecard, hire verdict and one drill."
     }
   ],
   "description": "Claude plugins from The AI PM Hub for product managers"
