@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "pm-interview-coach",
-      "source": "./plugins/pm-interview-coach",
+      "source": ".",
       "description": "Two PM interview-prep skills: a product-sense coach built on \"Cracking the PM Interview\" frameworks, and a realistic mock interviewer that scores you against a rubric and gives a hire verdict and drill."
     }
   ],
