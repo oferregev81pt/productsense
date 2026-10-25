@@ -5,14 +5,9 @@
   },
   "plugins": [
     {
-      "name": "product-sense-interview",
-      "source": "./plugins/product-sense-interview",
-      "description": "Interactive product-sense / product-design PM interview coach built strictly on the frameworks in \"Cracking the PM Interview\" (McDowell & Bavaro). Coaches one step at a time and saves a structured write-up."
-    },
-    {
-      "name": "pm-mock-interview",
-      "source": "./plugins/pm-mock-interview",
-      "description": "Run a realistic PM product-design mock interview, playing a tough but fair interviewer, then give a rubric scorecard, hire verdict and one drill."
+      "name": "pm-interview-coach",
+      "source": "./plugins/pm-interview-coach",
+      "description": "Two PM interview-prep skills: a product-sense coach built on \"Cracking the PM Interview\" frameworks, and a realistic mock interviewer that scores you against a rubric and gives a hire verdict and drill."
     }
   ],
   "description": "Claude plugins from The AI PM Hub for product managers"

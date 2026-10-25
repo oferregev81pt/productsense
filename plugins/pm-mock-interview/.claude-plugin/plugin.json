@@ -1,7 +1,0 @@
-{
-  "name": "pm-mock-interview",
-  "version": "0.1.0",
-  "description": "Run a realistic PM product-design mock interview, playing a tough but fair interviewer, then give a rubric scorecard, hire verdict and one drill.",
-  "author": { "name": "Ofer Regev" },
-  "keywords": ["product-management", "pm", "interview-prep", "mock-interview", "coaching"]
-}

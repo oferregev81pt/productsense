@@ -1,0 +1,7 @@
+{
+  "name": "pm-interview-coach",
+  "version": "0.1.0",
+  "description": "Two PM interview-prep skills: a product-sense coach built on \"Cracking the PM Interview\" frameworks, and a realistic mock interviewer that scores you against a rubric and gives a hire verdict and drill.",
+  "author": { "name": "Ofer Regev" },
+  "keywords": ["product-management", "pm", "interview-prep", "product-sense", "mock-interview", "coaching"]
+}
